@@ -1,4 +1,4 @@
-#Front-end Template
+# Front-end Template
 
 Simple front-end boilerplate using html and css.
 
