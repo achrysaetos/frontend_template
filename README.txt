@@ -1,2 +1,5 @@
-using html and css
-run "nodemon expressserver.js"
+#Front-end Template
+
+Simple front-end boilerplate using html and css.
+
+**To start:** run `nodemon expressserver.js`
